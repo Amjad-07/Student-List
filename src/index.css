@@ -47,8 +47,8 @@ body{
 }
 .stu-dis{
   padding: 5px;
-  background-color: black;
-  color: white;
+  background-color: rgb(196, 152, 239);
+
   border-radius: 3px;
 }
 .add-list{
@@ -59,8 +59,8 @@ body{
 }
 .lii {
   display: flex;
-  justify-content: space-between; /* Ensure even spacing between the elements */
-  align-items: center; /* Center vertically */
+  justify-content: space-between; 
+  align-items: center; 
   margin-top: 5px;
 }
 .lii {
